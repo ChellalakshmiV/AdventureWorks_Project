@@ -59,7 +59,7 @@ This dashboard seamlessly collects and utilizes data from CSV Files. Dimension T
 - A January 2022 revenue fall grabbed attention, followed by stabilization.
 - Current month revenue saw a 3.31% increase, with a lower return rate, but total orders dipped slightly.
   
-**Map Findings:**
+**Geographic Findings:**
 - The United States leads in orders.
 
 **Product Findings:**
@@ -78,8 +78,34 @@ This dashboard seamlessly collects and utilizes data from CSV Files. Dimension T
 
 In summary, the company should focus on tackling bike return rates, studying the December 2021 revenue spike, optimizing products and pricing, retaining high-revenue customers, exploring The United States expansion, and maintaining KPI-driven performance.
 
+Below are the data model and all other views of my dashboard report.
 
+### Data model:
+![Data model](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/f22dbd5b-67a2-4bfb-8356-235482aff6c1)
 
+### Executive View:
+![Executive View](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/3318a452-7c56-42f4-bd39-3e61a8dfe4fa)
+
+### Geographic View: 
+![Geographic View](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/fe44e0c9-7fc1-4366-aa51-029961cc450d)
+
+### Product Details:
+![Product Details](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/866cc55c-b5ef-4e19-a199-073048ce405f)
+
+### Customer Details:
+![Customer Details](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/1c6920a0-6f0a-449c-bbc4-ddb4f0dcb271)
+
+### Q & A:
+![Q   A](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/b5811b84-3159-43fc-ba95-c0cb102bc246)
+
+### Decomposition Tree:
+![Decomposition Tree](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/c36031bc-ad66-441f-83c2-40e9a4316df5)
+
+### Key Influencers:
+![Key Influencers](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/4d35ba75-ed43-406c-9739-aa083e6ebf64)
+
+### Category Tooltip:
+![Category Tooltip](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/b2b40f65-dec4-4a39-9202-54fdce79e37e)
 
 
 
