@@ -65,8 +65,7 @@ This dashboard seamlessly collects and utilizes data from CSV Files. Dimension T
 **Product Findings:**
 - It’s a drillthrough page and now I found details about the most ordered product Water Bottle – 30 oz which has 404 current month orders. 
 - A 10% price bump in June 2022 led to peak revenue, driven by original profit, which is easily noticeable with the help of numeric range parameters.
-- From June 2021 to June 2022 showcased a consistent uptrend in total profit.
-- From 13-09-2021 to 06-06-2022, profit rose by $178.
+- From June 2021 to June 2022 showcased a consistent uptrend in total profit that is from 13-09-2021 to 06-06-2022, profit rose by $178.
 
 **Customer Findings:**
 - Shan is the top customer who orders, which is responsible for the company's most revenue.
