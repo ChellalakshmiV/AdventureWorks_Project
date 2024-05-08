@@ -35,8 +35,48 @@ This dashboard seamlessly collects and utilizes data from CSV Files. Dimension T
 - **Key Influencers:** Analysed and understood the factors that drive specific metrics or outcomes.
 - **Category Tooltip**
 
+### Notable features in my dashboard:
 
+- The bottom left navigation bar facilitates movement across all four report pages.
+- The filter icon located at the top left corner of the navigation bar activates a custom slicer panel enabling users to apply high-level filters based on year and region to the Executive View. The arrow at the top of the panel clears all filters.
+- Users can drill through to the Product Detail page to access comprehensive information on a specific product.
+- Bookmarks are used for clearing all filters both in Executive View and Customer Details pages. Additionally, they are employed to display insights specific to individual customers.
+-	Custom Tooltips displaying bunch of KPI’s with area chart for orders.
+-	Parameters are applied to enhance interactivity and dynamism in these charts.
+-	Smart narrative to show more information about the filtered metric selection.
+- Anomaly detection is applied to track revenue trends.
+- Q & A visuals offer exploration and visualization of data concerning orders by month and return rate by category.
+- Decomposition trees are employed to visualize the distribution of total orders data across multiple dimensions such as category, subcategory, and product names.
+- Key Influencers to show categorical and continuous outcomes related to homeownership, alongside customer segmentation and the impact of product cost.
+
+### A few insights from this dashboard:
+**Executive Insights:**
+- Bikes drive the most revenue, but their return rate is noteworthy.
+- Accessories are in high demand.
+- Water Bottle 30 Oz is a crowd favourite product.
+- Most ordered product type: Tires and Tubes.
+- Most returned product type: Shorts.
+- A January 2022 revenue fall grabbed attention, followed by stabilization.
+- Current month revenue saw a 3.31% increase, with a lower return rate, but total orders dipped slightly.
   
+**Map Findings:**
+- The United States leads in orders.
+
+**Product Findings:**
+- It’s a drillthrough page and now I found details about the most ordered product Water Bottle – 30 oz which has 404 current month orders. 
+- A 10% price bump in June 2022 led to peak revenue, driven by original profit, which is easily noticeable with the help of numeric range parameters.
+- From June 2021 to June 2022 showcased a consistent uptrend in total profit.
+- From 13-09-2021 to 06-06-2022, profit rose by $178.
+
+**Customer Findings:**
+- Shan is the top customer who orders, which is responsible for the company's most revenue.
+- Working professionals placed the majority of orders.
+- From 2020 to 2022, the average revenue per customer declined by $1560.
+- The second half of 2021 witnessed a surge in total number of customers.
+
+**Actionable Steps:**
+
+In summary, the company should focus on tackling bike return rates, studying the December 2021 revenue spike, optimizing products and pricing, retaining high-revenue customers, exploring The United States expansion, and maintaining KPI-driven performance.
 
 
 
