@@ -84,7 +84,7 @@ Below are the data model and all other views of my dashboard report.
 ![Data model](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/f22dbd5b-67a2-4bfb-8356-235482aff6c1)
 
 ### Executive View:
-![Executive View](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/3318a452-7c56-42f4-bd39-3e61a8dfe4fa)
+![Executive View](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/76d8e9a0-d7e3-49c3-b82d-732e25b66659)
 
 ### Geographic View: 
 ![Geographic View](https://github.com/ChellalakshmiV/AdventureWorks_Report/assets/162456368/fe44e0c9-7fc1-4366-aa51-029961cc450d)
