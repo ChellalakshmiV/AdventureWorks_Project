@@ -1,4 +1,4 @@
-# AdventureWorks Report
+# AdventureWorks Project
 
 ### Project Overview:
 
