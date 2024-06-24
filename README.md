@@ -6,7 +6,8 @@ AdventureWorks, a leading global manufacturer specializing in cycling equipment 
 
 ### Exploring links:
 View Presentation video : [Project presentation](https://www.youtube.com/embed/QQOof5Ru6dQ?si=BvjKm6BhlTAZDmpE)
-View Linkedin Engagement  : [Presentation video](https://www.linkedin.com/posts/chellalakshmi_hello-connections-excited-to-unveil-activity-7194694781392883713-E9u0?utm_source=share&utm_medium=member_desktop)
+
+View Linkedin Engagement  : [Click here](https://www.linkedin.com/posts/chellalakshmi_hello-connections-excited-to-unveil-activity-7194694781392883713-E9u0?utm_source=share&utm_medium=member_desktop)
 
 ### Data Sources:
 
